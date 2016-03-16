@@ -1,0 +1,40 @@
+
+Student ID:			1
+Student first name:	Alex
+Student last name:	Hugo
+Student user name:	alex56
+Student password:	565656
+Courses:			Java
+Student tasks:		Java = IO 89, JDC 45;  
+
+Student ID:			2
+Student first name:	Frade
+Student last name:	Tabasko
+Student user name:	tabbbo
+Student password:	12345
+Courses:			Math, Java
+Student tasks:		Math = 2*2 32, 2+2 32;  Java = IO 56, JDC 11;  
+
+Student ID:			3
+Student first name:	Sasha
+Student last name:	Greay
+Student user name:	zvezda
+Student password:	23456
+Courses:			Java
+Student tasks:		Java = IO 23, JDC 48;  
+
+Student ID:			4
+Student first name:	Wolodya
+Student last name:	Parhomenko
+Student user name:	parhom
+Student password:	34567
+Courses:			Math
+Student tasks:		Math = 2*2 99, 2+2 1;  
+
+Student ID:			5
+Student first name:	Tom
+Student last name:	Soer
+Student user name:	tomtom
+Student password:	45678
+Courses:			Math
+Student tasks:		Math = 2*2 45, 2+2 34;  

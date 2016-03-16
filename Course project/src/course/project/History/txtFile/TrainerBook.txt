@@ -1,0 +1,10 @@
+
+Trainer ID:			1
+Trainer first name:	Mihail
+Trainer last name:	Mihalchenko
+Courses:			Java
+
+Trainer ID:			2
+Trainer first name:	Jim
+Trainer last name:	Worm
+Courses:			Math

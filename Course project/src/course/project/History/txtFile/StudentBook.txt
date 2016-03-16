@@ -1,0 +1,30 @@
+
+Student ID:			1
+Student first name:	Alex
+Student last name:	Hugo
+Courses:			Java
+Student tasks:		Java = JDC 45, IO 89;  
+
+Student ID:			2
+Student first name:	Frade
+Student last name:	Tabasko
+Courses:			Java, Math
+Student tasks:		Java = JDC 11, IO 56;  Math = 2+2 32, 2*2 32;  
+
+Student ID:			3
+Student first name:	Sasha
+Student last name:	Greay
+Courses:			Java
+Student tasks:		Java = JDC 48, IO 23;  
+
+Student ID:			4
+Student first name:	Wolodya
+Student last name:	Parhomenko
+Courses:			Math
+Student tasks:		Math = 2+2 1, 2*2 99;  
+
+Student ID:			5
+Student first name:	Tom
+Student last name:	Soer
+Courses:			Math
+Student tasks:		Math = 2+2 34, 2*2 45;  

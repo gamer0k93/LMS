@@ -1,0 +1,40 @@
+
+Course ID:			1
+Name:				Java
+Info:				Java lessons
+Students:			Alex Hugo, Frade Tabasko, Sasha Greay
+Trainers:			Mihail Mihalchenko
+Start data:			10.10.2015
+Finish data:		15.2.2016
+Training days:		MON, WED, FRI
+Student assessment: JDC = What JDC = Frade Tabasko 11, Sasha Greay 48, Alex Hugo 45;, IO = Input and output = Frade Tabasko 56, Sasha Greay 23, Alex Hugo 89;
+
+Course ID:			2
+Name:				COR
+Info:				Java COR lessons
+Students:			
+Trainers:			
+Start data:			11.11.2011
+Finish data:		12.0.2013
+Training days:		MON, WED, FRI
+Student assessment: 
+
+Course ID:			3
+Name:				Math
+Info:				Math course...
+Students:			Wolodya Parhomenko, Tom Soer, Frade Tabasko
+Trainers:			Jim Worm
+Start data:			9.9.2016
+Finish data:		9.9.2017
+Training days:		MON, WED, FRI
+Student assessment: 2*2 = 4 or 5? = Frade Tabasko 32, Wolodya Parhomenko 99, Tom Soer 45;, 2+2 = 6 or 5? = Frade Tabasko 32, Wolodya Parhomenko 1, Tom Soer 34;
+
+Course ID:			4
+Name:				English
+Info:				That how much and what's what
+Students:			
+Trainers:			
+Start data:			9.9.1980
+Finish data:		10.10.2025
+Training days:		MON, WED, FRI
+Student assessment: Alphabet = A B C D ... and so on = ;

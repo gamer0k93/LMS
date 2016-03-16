@@ -1,0 +1,14 @@
+
+Trainer ID:			1
+Trainer first name:	Mihail
+Trainer last name:	Mihalchenko
+Trainer user name:	mishka44
+Trainer password:	4555
+Courses:			Java
+
+Trainer ID:			2
+Trainer first name:	Jim
+Trainer last name:	Worm
+Trainer user name:	jimjim
+Trainer password:	jimjim
+Courses:			Math
