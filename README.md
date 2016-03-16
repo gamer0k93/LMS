@@ -1,1 +1,3 @@
 # LMS
+
+Course project - програма
